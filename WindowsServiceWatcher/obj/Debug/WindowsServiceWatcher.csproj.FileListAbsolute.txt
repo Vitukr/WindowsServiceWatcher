@@ -1,0 +1,11 @@
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\bin\Debug\WindowsServiceWatcher.exe.config
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\bin\Debug\WindowsServiceWatcher.exe
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\bin\Debug\WindowsServiceWatcher.pdb
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\bin\Debug\Newtonsoft.Json.dll
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\bin\Debug\Newtonsoft.Json.xml
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.csprojResolveAssemblyReference.cache
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.ProjectInstaller.resources
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.Service1.resources
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.csproj.GenerateResource.Cache
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.exe
+c:\users\vit\documents\visual studio 2017\Projects\WindowsServiceWatcher\WindowsServiceWatcher\obj\Debug\WindowsServiceWatcher.pdb
